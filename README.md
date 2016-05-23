@@ -1,6 +1,6 @@
 # myGoWiki
 
-This project is oriented on this tutorial [https://golang.org/doc/articles/wiki/] and implements a simple wiki using the standard http router and the standard template engine.
+This project is oriented on this [tutorial](https://golang.org/doc/articles/wiki/) and implements a simple wiki using the standard http router and the standard template engine.
 
 ## 1. Getting started (Linux)
 * install Git
@@ -18,7 +18,7 @@ cd $GOPATH/src/github.com/DeusProx/myGoWiki
 go install
 myGoRest
 ```
-* You can also check this official golang tutorial: [https://golang.org/doc/code.html]
+* You can also check this official golang [tutorial](https://golang.org/doc/code.html)
 
 ```
 Developed by
